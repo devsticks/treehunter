@@ -1,6 +1,7 @@
 # Image input and output folders
 Images/
 Outputs/
+Videos/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
